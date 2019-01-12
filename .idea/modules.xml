@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy.iml" filepath="$PROJECT_DIR$/SpringCloudStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragon-study-cloud-common/dragon-study-cloud-common.iml" filepath="$PROJECT_DIR$/dragon-study-cloud-common/dragon-study-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragon-study-cloud-util/dragon-study-cloud-util.iml" filepath="$PROJECT_DIR$/dragon-study-cloud-util/dragon-study-cloud-util.iml" />
+    </modules>
+  </component>
+</project>
